@@ -77,3 +77,9 @@ Configure AWS CLI on your development environment using `aws configure`, providi
 ---
 
 **Note**: The Terraform setup is divided into two main parts. The first subfolder is used solely for the initial setup of the S3 bucket. After running `terraform apply` in that folder, all future interactions and infrastructure management should be conducted in the second subfolder containing the main Terraform configurations.
+
+## Ownership
+
+Original material owned by **Daniel Boguslavsky** is proprietary and all rights
+are reserved. See [LICENSE](LICENSE) for scope, prior permissions and third-party
+exceptions. No public licence or permission for another business is granted.
